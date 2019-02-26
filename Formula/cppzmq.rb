@@ -1,8 +1,8 @@
 class Cppzmq < Formula
   desc "Header-only C++ binding for libzmq"
   homepage "http://www.zeromq.org"
-  url "https://github.com/zeromq/cppzmq/archive/v4.2.3.tar.gz"
-  sha256 "3e6b57bf49115f4ae893b1ff7848ead7267013087dc7be1ab27636a97144d373"
+  url "https://github.com/zeromq/cppzmq/archive/v4.3.0.tar.gz"
+  sha256 "27d1f56406ba94ee779e639203218820975cf68174f92fbeae0f645df0fcada4"
 
   depends_on "cmake" => :build
   depends_on "zeromq"
