@@ -3,7 +3,7 @@ A Tap for Homebrew Formula that were rejected from Core and have been forced to 
 
 To add this Tap Homebrew use:
 ```bash
-brew tap bottech/homebrew-outcasts
+brew tap devartor/homebrew-outcasts
 ```
 
 This tap includes the following Formula:
